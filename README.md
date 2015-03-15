@@ -1,3 +1,5 @@
+A Groovy friendly CSS Selector using
+http://github.com/chrsan/css-selectors
 
 ###Using with HTTPBuilder
 
